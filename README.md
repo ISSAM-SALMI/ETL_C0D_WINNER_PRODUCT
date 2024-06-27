@@ -15,9 +15,8 @@ The project consists of the following scripts:
 
 ## Prerequisites
 
-- Python 3.x
+- Python 3.8.2
 - MySQL
-- The following Python libraries (specified in `requirements.txt`):
 
 ## Installation
 
