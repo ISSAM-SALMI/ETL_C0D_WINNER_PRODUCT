@@ -67,7 +67,3 @@ selenium
 pandas
 mysql-connector-python
 ```
-
----
-
-This README provides a comprehensive overview of your ETL project, including its objective, structure, prerequisites, installation steps, usage instructions, and detailed descriptions of each ETL phase. Adjust the repository link and MySQL connection details as necessary.
