@@ -11,7 +11,7 @@ The project consists of the following scripts:
 - `COD_GET_DATA.py`: Extracts data from the website using Selenium.
 - `Transform.py`: Transforms JSON data into CSV format.
 - `Load_Data.py`: Loads CSV data into a MySQL database.
-- `main.py`: The main script to execute the ETL process.
+- `ETL.py`: The main script to execute the ETL process.
 
 ## Prerequisites
 
