@@ -56,14 +56,4 @@ The transformation process reads the JSON files, extracts relevant information s
 ### Loading
 
 The loading process reads the CSV files and inserts the data into a MySQL database. This enables further analysis to determine which products are diminishing in stock.
-
-## Requirements
-
-Create a `requirements.txt` file with the following content:
-
-```
-undetected-chromedriver
-selenium
-pandas
-mysql-connector-python
 ```
