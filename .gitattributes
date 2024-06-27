@@ -1,0 +1,11 @@
+# Auto detect text files and perform LF normalization
+* text=auto
+
+# Explicitly set LF for specific file types
+*.py text eol=lf
+*.json text eol=lf
+*.csv text eol=lf
+
+# Prevent certain files from being normalized
+*.jpg binary
+*.png binary

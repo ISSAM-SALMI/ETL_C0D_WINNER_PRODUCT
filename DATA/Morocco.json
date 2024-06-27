@@ -1,0 +1,932 @@
+{
+    "SHOULDER BAG": {
+        "category": "CLOTHING, SHOES & JEWELRY",
+        "prix": "\u062f.\u0645.259",
+        "commission": "60 MAD"
+    },
+    "KIT DE FER \u00c0 SOUDER PORTABLE": {
+        "category": "ELECTRONICS & ACCESSORIES",
+        "prix": "\u062f.\u0645.219",
+        "commission": "50 MAD"
+    },
+    "SUPPORT DE VOLANT DE VOITURE": {
+        "category": "CARS & ACCESSORIES",
+        "prix": "\u062f.\u0645.199",
+        "commission": "50 MAD"
+    },
+    "FLEX GEL": {
+        "category": "HEALTH & BEAUTY",
+        "prix": "\u062f.\u0645.219",
+        "commission": "80 MAD"
+    },
+    "SPRAY MYCOSE DES ONGLES": {
+        "category": "HEALTH & BEAUTY",
+        "prix": "\u062f.\u0645.159",
+        "commission": "65 MAD"
+    },
+    "CHIN LIFT MASK": {
+        "category": "HEALTH & BEAUTY",
+        "prix": "\u062f.\u0645.135",
+        "commission": "50 MAD"
+    },
+    "CAPSULE D\u00c9SINTOXICATION POUMON": {
+        "category": "HEALTH & BEAUTY",
+        "prix": "\u062f.\u0645.199",
+        "commission": "70 MAD"
+    },
+    "CAR SCRATCH RESISTANT PAINT": {
+        "category": "CARS & ACCESSORIES",
+        "prix": "\u062f.\u0645.159",
+        "commission": "60 MAD"
+    },
+    "LATEX FITNESS BANDS": {
+        "category": "HEALTH & BEAUTY",
+        "prix": "\u062f.\u0645.185",
+        "commission": "50 MAD"
+    },
+    "MONTRE INTELLIGENTE POUR ENFANTS": {
+        "category": "ELECTRONICS & ACCESSORIES",
+        "prix": "\u062f.\u0645.279",
+        "commission": "70 MAD"
+    },
+    "FLOOR CLEAN MOP": {
+        "category": "HOME, GARDEN & FURNITURE",
+        "prix": "\u062f.\u0645.179",
+        "commission": "60 MAD"
+    },
+    "BODY SLIMMING BELT": {
+        "category": "HEALTH & BEAUTY",
+        "prix": "\u062f.\u0645.169",
+        "commission": "60 MAD"
+    },
+    "CR\u00c8ME DE RESSERREMENT VAGINAL": {
+        "category": "HEALTH & BEAUTY",
+        "prix": "\u062f.\u0645.199",
+        "commission": "70 MAD"
+    },
+    "GEL NETTOYANT AU GEL D'ESCARGOT": {
+        "category": "HEALTH & BEAUTY",
+        "prix": "\u062f.\u0645.199",
+        "commission": "70 MAD"
+    },
+    "MASQUE NATUREL ANTI-CHUTE": {
+        "category": "HEALTH & BEAUTY",
+        "prix": "\u062f.\u0645.199",
+        "commission": "65 MAD"
+    },
+    "MIRROR STICKER ACRYLIC": {
+        "category": "HOME, GARDEN & FURNITURE",
+        "prix": "\u062f.\u0645.165",
+        "commission": "50 MAD"
+    },
+    "FIRE BLANKET": {
+        "category": "HOME, GARDEN & FURNITURE",
+        "prix": "\u062f.\u0645.265",
+        "commission": "90 MAD"
+    },
+    "ELECTRIC MINI FOOD CHOPPER": {
+        "category": "HOME, GARDEN & FURNITURE",
+        "prix": "\u062f.\u0645.199",
+        "commission": "60 MAD"
+    },
+    "MULTIFUNCTION MANUAL CAN OPENER": {
+        "category": "HOME, GARDEN & FURNITURE",
+        "prix": "\u062f.\u0645.159",
+        "commission": "60 MAD"
+    },
+    "MOSQUITO LAMP": {
+        "category": "ELECTRONICS & ACCESSORIES",
+        "prix": "\u062f.\u0645.159",
+        "commission": "55 MAD"
+    },
+    "S\u00c9RUM DE GRENADE NOIRE": {
+        "category": "HEALTH & BEAUTY",
+        "prix": "\u062f.\u0645.169",
+        "commission": "70 MAD"
+    },
+    "CR\u00c8ME POUR LES ARTICULATIONS ET LES OS": {
+        "category": "HEALTH & BEAUTY",
+        "prix": "\u062f.\u0645.189",
+        "commission": "60 MAD"
+    },
+    "JOINT CREAM": {
+        "category": "HEALTH & BEAUTY",
+        "prix": "\u062f.\u0645.179",
+        "commission": "60 MAD"
+    },
+    "TH\u00c9 DE PERTE DE POIDS": {
+        "category": "HEALTH & BEAUTY",
+        "prix": "\u062f.\u0645.189",
+        "commission": "55 MAD"
+    },
+    "CAPSULE DE CROISSANCE": {
+        "category": "HEALTH & BEAUTY",
+        "prix": "\u062f.\u0645.169",
+        "commission": "60 MAD"
+    },
+    "LAMPE SOLAIRE LED": {
+        "category": "HOME, GARDEN & FURNITURE",
+        "prix": "\u062f.\u0645.289",
+        "commission": "70 MAD"
+    },
+    "TRAIN DOMINO POUR LES ENFANTS": {
+        "category": "TOYS & GAMES",
+        "prix": "\u062f.\u0645.259",
+        "commission": "70 MAD"
+    },
+    "PISTOLET \u00c0 SOUDER HAUTE PUISSANCE": {
+        "category": "HOME, GARDEN & FURNITURE",
+        "prix": "\u062f.\u0645.289",
+        "commission": "70 MAD"
+    },
+    "ENSEMBLE DE PINCES \u00c0 FIL": {
+        "category": "HOME, GARDEN & FURNITURE",
+        "prix": "\u062f.\u0645.289",
+        "commission": "70 MAD"
+    },
+    "ROBINET D'EAU MULTIFONCTIONNEL": {
+        "category": "HOME, GARDEN & FURNITURE",
+        "prix": "\u062f.\u0645.239",
+        "commission": "65 MAD"
+    },
+    "BANDES DE BLANCHIMENT DES DENTS": {
+        "category": "HEALTH & BEAUTY",
+        "prix": "\u062f.\u0645.199",
+        "commission": "55 MAD"
+    },
+    "SPRAY NETTOYANT D'INT\u00c9RIEUR DE VOITURE": {
+        "category": "CARS & ACCESSORIES",
+        "prix": "\u062f.\u0645.189",
+        "commission": "60 MAD"
+    },
+    "MINI HAUT-PARLEUR ETANCHE": {
+        "category": "ELECTRONICS & ACCESSORIES",
+        "prix": "\u062f.\u0645.199",
+        "commission": "50 MAD"
+    },
+    "COLLE A FORTE ADH\u00c9RENCE": {
+        "category": "HOME, GARDEN & FURNITURE",
+        "prix": "\u062f.\u0645.179",
+        "commission": "60 MAD"
+    },
+    "GRAY WAIST BELT": {
+        "category": "CLOTHING, SHOES & JEWELRY",
+        "prix": "\u062f.\u0645.219",
+        "commission": "65 MAD"
+    },
+    "ELECTRONIC ACUPUNCTURE PEN": {
+        "category": "HEALTH & BEAUTY",
+        "prix": "\u062f.\u0645.269",
+        "commission": "90 MAD"
+    },
+    "EDUCATION LEARNING DEVICE": {
+        "category": "EDUCATION",
+        "prix": "\u062f.\u0645.239",
+        "commission": "70 MAD"
+    },
+    "CUP WASHER": {
+        "category": "HOME, GARDEN & FURNITURE",
+        "prix": "\u062f.\u0645.179",
+        "commission": "50 MAD"
+    },
+    "WATERPROOF KITCHEN TAPE - WHITE": {
+        "category": "HOME, GARDEN & FURNITURE",
+        "prix": "\u062f.\u0645.169",
+        "commission": "55 MAD"
+    },
+    "TH\u00c9RAPIE LASER PORTABLE": {
+        "category": "HEALTH & BEAUTY",
+        "prix": "\u062f.\u0645.179",
+        "commission": "40 MAD"
+    },
+    "S\u00c9RUM ANTI-MAUVAISE HALEINE": {
+        "category": "HEALTH & BEAUTY",
+        "prix": "\u062f.\u0645.179",
+        "commission": "60 MAD"
+    },
+    "SUPPORT EN ALUMINIUM MULTI-USAGE": {
+        "category": "ELECTRONICS & ACCESSORIES",
+        "prix": "\u062f.\u0645.209",
+        "commission": "50 MAD"
+    },
+    "CR\u00c8ME ANTI PSORIASIS ET L'ECZ\u00c9MA": {
+        "category": "HEALTH & BEAUTY",
+        "prix": "\u062f.\u0645.179",
+        "commission": "55 MAD"
+    },
+    "CREME ANTI DOULEUR MUSCULAIRE": {
+        "category": "HEALTH & BEAUTY",
+        "prix": "\u062f.\u0645.179",
+        "commission": "60 MAD"
+    },
+    "HUILE DE MASSAGE": {
+        "category": "HEALTH & BEAUTY",
+        "prix": "\u062f.\u0645.179",
+        "commission": "60 MAD"
+    },
+    "SUPPORT T\u00c9L\u00c9PHONE POUR VOITURE": {
+        "category": "CARS & ACCESSORIES",
+        "prix": "\u062f.\u0645.169",
+        "commission": "50 MAD"
+    },
+    "EARWAX CLEANING KIT X6": {
+        "category": "HEALTH & BEAUTY",
+        "prix": "\u062f.\u0645.149",
+        "commission": "55 MAD"
+    },
+    "ADJUSTABLE WAIST STRAP": {
+        "category": "CLOTHING, SHOES & JEWELRY",
+        "prix": "\u062f.\u0645.219",
+        "commission": "70 MAD"
+    },
+    "BATH SPONGE BODY X3": {
+        "category": "HEALTH & BEAUTY",
+        "prix": "\u062f.\u0645.139",
+        "commission": "55 MAD"
+    },
+    "PISTOLET D'EAU SOUS PRESSION": {
+        "category": "HOME, GARDEN & FURNITURE",
+        "prix": "\u062f.\u0645.169",
+        "commission": "55 MAD"
+    },
+    "DARK BAR SHAMPOO": {
+        "category": "HEALTH & BEAUTY",
+        "prix": "\u062f.\u0645.159",
+        "commission": "55 MAD"
+    },
+    "SPRAY ANTI-RHUMATISME": {
+        "category": "HEALTH & BEAUTY",
+        "prix": "\u062f.\u0645.159",
+        "commission": "60 MAD"
+    },
+    "TUZ FOUNDATION WATERPROOF": {
+        "category": "HEALTH & BEAUTY",
+        "prix": "\u062f.\u0645.179",
+        "commission": "50 MAD"
+    },
+    "HUILE STIMULANTE POUR HOMMES": {
+        "category": "HEALTH & BEAUTY",
+        "prix": "\u062f.\u0645.199",
+        "commission": "70 MAD"
+    },
+    "GLOSS A L\u00c8VRES": {
+        "category": "HEALTH & BEAUTY",
+        "prix": "\u062f.\u0645.219",
+        "commission": "70 MAD"
+    },
+    "MINI CAMERA ENDOSCOPE": {
+        "category": "ELECTRONICS & ACCESSORIES",
+        "prix": "\u062f.\u0645.249",
+        "commission": "65 MAD"
+    },
+    "LUNETTES DE LECTURE PLIABLES": {
+        "category": "HEALTH & BEAUTY",
+        "prix": "\u062f.\u0645.219",
+        "commission": "70 MAD"
+    },
+    "AUTOCOLLANTS D'\u00c9LIMINATION DES GRAISSES": {
+        "category": "HEALTH & BEAUTY",
+        "prix": "\u062f.\u0645.179",
+        "commission": "55 MAD"
+    },
+    "DENTIFRICE VIOLET": {
+        "category": "HEALTH & BEAUTY",
+        "prix": "\u062f.\u0645.169",
+        "commission": "60 MAD"
+    },
+    "WHITENING CREAM": {
+        "category": "HEALTH & BEAUTY",
+        "prix": "\u062f.\u0645.219",
+        "commission": "65 MAD"
+    },
+    "BEARD GROWTH OIL": {
+        "category": "HEALTH & BEAUTY",
+        "prix": "\u062f.\u0645.219",
+        "commission": "65 MAD"
+    },
+    "STAINLESS STEEL DUMPLING MAKER KIT": {
+        "category": "HOME, GARDEN & FURNITURE",
+        "prix": "\u062f.\u0645.179",
+        "commission": "55 MAD"
+    },
+    "ALUMINUM ADHESIVE TAPE": {
+        "category": "HOME, GARDEN & FURNITURE",
+        "prix": "\u062f.\u0645.169",
+        "commission": "55 MAD"
+    },
+    "CADRE LUNETTES PLIABLE": {
+        "category": "CLOTHING, SHOES & JEWELRY",
+        "prix": "\u062f.\u0645.199",
+        "commission": "70 MAD"
+    },
+    "\u00c9CONOMISEUR DE CARBURANT DE VOITURE": {
+        "category": "CARS & ACCESSORIES",
+        "prix": "\u062f.\u0645.189",
+        "commission": "60 MAD"
+    },
+    "PRESSE-P\u00c2TE MANUEL": {
+        "category": "HOME, GARDEN & FURNITURE",
+        "prix": "\u062f.\u0645.159",
+        "commission": "55 MAD"
+    },
+    "CR\u00c8ME POUR SOULAGER LA VASCULARITE": {
+        "category": "HEALTH & BEAUTY",
+        "prix": "\u062f.\u0645.179",
+        "commission": "55 MAD"
+    },
+    "CORDE \u00c0 LINGE T\u00c9LESCOPIQUE": {
+        "category": "CLOTHING, SHOES & JEWELRY",
+        "prix": "\u062f.\u0645.199",
+        "commission": "55 MAD"
+    },
+    "JUPE-CULOTTE POUR ENFANTS": {
+        "category": "CLOTHING, SHOES & JEWELRY",
+        "prix": "\u062f.\u0645.179",
+        "commission": "55 MAD"
+    },
+    "EGG SHAPING TOOL": {
+        "category": "HOME, GARDEN & FURNITURE",
+        "prix": "\u062f.\u0645.149",
+        "commission": "50 MAD"
+    },
+    "MACHINE A RASER ELECTRIQUE": {
+        "category": "ELECTRONICS & ACCESSORIES",
+        "prix": "\u062f.\u0645.219",
+        "commission": "60 MAD"
+    },
+    "OREILLER CERVICAL POUR VOITURE": {
+        "category": "CARS & ACCESSORIES",
+        "prix": "\u062f.\u0645.219",
+        "commission": "65 MAD"
+    },
+    "WATER FILTER": {
+        "category": "HOME, GARDEN & FURNITURE",
+        "prix": "\u062f.\u0645.169",
+        "commission": "50 MAD"
+    },
+    "GLASS WIPER DOUBLE": {
+        "category": "HOME, GARDEN & FURNITURE",
+        "prix": "\u062f.\u0645.199",
+        "commission": "70 MAD"
+    },
+    "STAINLESS STEEL MAGNETIC BRACELET": {
+        "category": "CLOTHING, SHOES & JEWELRY",
+        "prix": "\u062f.\u0645.175",
+        "commission": "70 MAD"
+    },
+    "STAINLESS STEEL MAGNETIC NECKLACE": {
+        "category": "ELECTRONICS & ACCESSORIES",
+        "prix": "\u062f.\u0645.175",
+        "commission": "70 MAD"
+    },
+    "DOUBLE RING NECKLACE": {
+        "category": "HEALTH & BEAUTY",
+        "prix": "\u062f.\u0645.149",
+        "commission": "50 MAD"
+    },
+    "PNEU POUR TROTINETTE ELECTRIQUE": {
+        "category": "CARS & ACCESSORIES",
+        "prix": "\u062f.\u0645.219",
+        "commission": "60 MAD"
+    },
+    "CEINTURE CHAUFFANT ELECTRIQUE": {
+        "category": "HEALTH & BEAUTY",
+        "prix": "\u062f.\u0645.249",
+        "commission": "60 MAD"
+    },
+    "APPAREIL DE MASSAGE POUR LES PIEDS": {
+        "category": "HEALTH & BEAUTY",
+        "prix": "\u062f.\u0645.169",
+        "commission": "55 MAD"
+    },
+    "GREEN STONE WOMENS NECKLACE": {
+        "category": "HEALTH & BEAUTY",
+        "prix": "\u062f.\u0645.149",
+        "commission": "50 MAD"
+    },
+    "COUPE-ONGLES ELECTRIQUE": {
+        "category": "ELECTRONICS & ACCESSORIES",
+        "prix": "\u062f.\u0645.199",
+        "commission": "50 MAD"
+    },
+    "5 IN 1 HOT AIR STYLER": {
+        "category": "HEALTH & BEAUTY",
+        "prix": "\u062f.\u0645.249",
+        "commission": "65 MAD"
+    },
+    "CREME POUR HOMME": {
+        "category": "HEALTH & BEAUTY",
+        "prix": "\u062f.\u0645.179",
+        "commission": "60 MAD"
+    },
+    "CR\u00c8ME POUR LES HANCHES": {
+        "category": "HEALTH & BEAUTY",
+        "prix": "\u062f.\u0645.179",
+        "commission": "70 MAD"
+    },
+    "CAPSULES POUR ARR\u00caTER FUMER": {
+        "category": "HEALTH & BEAUTY",
+        "prix": "\u062f.\u0645.159",
+        "commission": "55 MAD"
+    },
+    "\u00c9LIMINATEUR D'ODEUR BUCCALE": {
+        "category": "HEALTH & BEAUTY",
+        "prix": "\u062f.\u0645.149",
+        "commission": "55 MAD"
+    },
+    "SPRAY ANTI-DOULEUR": {
+        "category": "HEALTH & BEAUTY",
+        "prix": "\u062f.\u0645.159",
+        "commission": "55 MAD"
+    },
+    "SPRAY DE CROISSANCE CAPILLAIRE": {
+        "category": "HEALTH & BEAUTY",
+        "prix": "\u062f.\u0645.159",
+        "commission": "60 MAD"
+    },
+    "SPRAY POUR UNE FRESH HALEINE": {
+        "category": "HEALTH & BEAUTY",
+        "prix": "\u062f.\u0645.159",
+        "commission": "60 MAD"
+    },
+    "LIPOO PINK POUR LES L\u00c8VRES": {
+        "category": "HEALTH & BEAUTY",
+        "prix": "\u062f.\u0645.159",
+        "commission": "55 MAD"
+    },
+    "SPRAY HOMOHURB": {
+        "category": "HEALTH & BEAUTY",
+        "prix": "\u062f.\u0645.179",
+        "commission": "65 MAD"
+    },
+    "GEL POUR HOMME": {
+        "category": "HEALTH & BEAUTY",
+        "prix": "\u062f.\u0645.179",
+        "commission": "60 MAD"
+    },
+    "COMPL\u00c9MENT ALIMENTAIRE POUR RENFORCER LES OS": {
+        "category": "HEALTH & BEAUTY",
+        "prix": "\u062f.\u0645.169",
+        "commission": "60 MAD"
+    },
+    "S\u00c9RUM EPAISSISSANT LES CILS": {
+        "category": "HEALTH & BEAUTY",
+        "prix": "\u062f.\u0645.159",
+        "commission": "55 MAD"
+    },
+    "ANTI CHUTE DES CHEVEUX": {
+        "category": "HEALTH & BEAUTY",
+        "prix": "\u062f.\u0645.169",
+        "commission": "55 MAD"
+    },
+    "SPRAY ROMARIN ANTI CHUTE": {
+        "category": "HEALTH & BEAUTY",
+        "prix": "\u062f.\u0645.169",
+        "commission": "55 MAD"
+    },
+    "CAPSULE DE MORINGA": {
+        "category": "HEALTH & BEAUTY",
+        "prix": "\u062f.\u0645.169",
+        "commission": "60 MAD"
+    },
+    "BROSSE S\u00c8CHE-CHEVEUX ONE STEP": {
+        "category": "HEALTH & BEAUTY",
+        "prix": "\u062f.\u0645.239",
+        "commission": "60 MAD"
+    },
+    "CREME PUSH UP SEINS ET FESSES": {
+        "category": "HEALTH & BEAUTY",
+        "prix": "\u062f.\u0645.289",
+        "commission": "80 MAD"
+    },
+    "ADHESIVE ALUMINUM TAPE": {
+        "category": "HOME, GARDEN & FURNITURE",
+        "prix": "\u062f.\u0645.159",
+        "commission": "60 MAD"
+    },
+    "PORTABLE ELECTRIC SHAVER": {
+        "category": "ELECTRONICS & ACCESSORIES",
+        "prix": "\u062f.\u0645.179",
+        "commission": "60 MAD"
+    },
+    "COMPL\u00c9MENT ALIMENTAIRE ANTI PROSTATE": {
+        "category": "HEALTH & BEAUTY",
+        "prix": "\u062f.\u0645.179",
+        "commission": "60 MAD"
+    },
+    "TASSE INTELLIGENTE AUTO-CHAUFFANTE": {
+        "category": "HOME, GARDEN & FURNITURE",
+        "prix": "\u062f.\u0645.219",
+        "commission": "55 MAD"
+    },
+    "LAUNDRY SOAP DISH": {
+        "category": "HOME, GARDEN & FURNITURE",
+        "prix": "\u062f.\u0645.149",
+        "commission": "50 MAD"
+    },
+    "3X LOCKER LOCK": {
+        "category": "HOME, GARDEN & FURNITURE",
+        "prix": "\u062f.\u0645.149",
+        "commission": "55 MAD"
+    },
+    "TASSE CHAUFFANTE INTELLIGENTE": {
+        "category": "HOME, GARDEN & FURNITURE",
+        "prix": "\u062f.\u0645.219",
+        "commission": "60 MAD"
+    },
+    "3X PAIR SILICONE HEEL STICKERS": {
+        "category": "CLOTHING, SHOES & JEWELRY",
+        "prix": "\u062f.\u0645.149",
+        "commission": "55 MAD"
+    },
+    "FISHING UMBRELLA": {
+        "category": "ANIMALS & GADGETS",
+        "prix": "\u062f.\u0645.189",
+        "commission": "65 MAD"
+    },
+    "MARBLE PAPER": {
+        "category": "HOME, GARDEN & FURNITURE",
+        "prix": "\u062f.\u0645.189",
+        "commission": "75 MAD"
+    },
+    "WIRELESS MUSCLE STIMULATOR TRAINER": {
+        "category": "ELECTRONICS & ACCESSORIES",
+        "prix": "\u062f.\u0645.149",
+        "commission": "60 MAD"
+    },
+    "PHONE HOLDER FOR CAR": {
+        "category": "ELECTRONICS & ACCESSORIES",
+        "prix": "\u062f.\u0645.139",
+        "commission": "50 MAD"
+    },
+    "2 IN 1 ELECTRIC MIXER": {
+        "category": "HOME, GARDEN & FURNITURE",
+        "prix": "\u062f.\u0645.359",
+        "commission": "60 MAD"
+    },
+    "PACK ANTI HAIR LOSS": {
+        "category": "HEALTH & BEAUTY",
+        "prix": "\u062f.\u0645.239",
+        "commission": "70 MAD"
+    },
+    "TOOTHPASTE FOR WHITENING": {
+        "category": "HEALTH & BEAUTY",
+        "prix": "\u062f.\u0645.189",
+        "commission": "65 MAD"
+    },
+    "5 IN 1 BEAUTY CARE MASSAGER": {
+        "category": "HEALTH & BEAUTY",
+        "prix": "\u062f.\u0645.159",
+        "commission": "50 MAD"
+    },
+    "MULTIFUNCTIONAL MICROWAVE OVEN RACK": {
+        "category": "HOME, GARDEN & FURNITURE",
+        "prix": "\u062f.\u0645.229",
+        "commission": "55 MAD"
+    },
+    "FOLDABLE SHOPPING BAG": {
+        "category": "HOME, GARDEN & FURNITURE",
+        "prix": "\u062f.\u0645.199",
+        "commission": "80 MAD"
+    },
+    "ELECTRIC HEATING PAD": {
+        "category": "HEALTH & BEAUTY",
+        "prix": "\u062f.\u0645.279",
+        "commission": "70 MAD"
+    },
+    "OTOSCOPE EAR CLEANER": {
+        "category": "HEALTH & BEAUTY",
+        "prix": "\u062f.\u0645.249",
+        "commission": "55 MAD"
+    },
+    "COOKING OVERALLS": {
+        "category": "HOME, GARDEN & FURNITURE",
+        "prix": "\u062f.\u0645.149",
+        "commission": "50 MAD"
+    },
+    "PHONE CHARGING BRACELET": {
+        "category": "ELECTRONICS & ACCESSORIES",
+        "prix": "\u062f.\u0645.169",
+        "commission": "70 MAD"
+    },
+    "CUP DRINK HOLDER": {
+        "category": "HOME, GARDEN & FURNITURE",
+        "prix": "\u062f.\u0645.169",
+        "commission": "55 MAD"
+    },
+    "BODY WASH BRUSH": {
+        "category": "HEALTH & BEAUTY",
+        "prix": "\u062f.\u0645.179",
+        "commission": "60 MAD"
+    },
+    "AUTOMATIC CUP WASHER": {
+        "category": "HOME, GARDEN & FURNITURE",
+        "prix": "\u062f.\u0645.199",
+        "commission": "75 MAD"
+    },
+    "UNDERWEAR STORAGE BAG": {
+        "category": "CLOTHING, SHOES & JEWELRY",
+        "prix": "\u062f.\u0645.199",
+        "commission": "75 MAD"
+    },
+    "HANDWRITING BOARD": {
+        "category": "EDUCATION",
+        "prix": "\u062f.\u0645.149",
+        "commission": "60 MAD"
+    },
+    "BLUETOOTH TRACKER": {
+        "category": "ELECTRONICS & ACCESSORIES",
+        "prix": "\u062f.\u0645.159",
+        "commission": "60 MAD"
+    },
+    "ANIMAL HAIR REMOVAL BRUSH": {
+        "category": "ANIMALS & GADGETS",
+        "prix": "\u062f.\u0645.179",
+        "commission": "60 MAD"
+    },
+    "CERAMIC WHITENER": {
+        "category": "HOME, GARDEN & FURNITURE",
+        "prix": "\u062f.\u0645.199",
+        "commission": "85 MAD"
+    },
+    "CALCULATOR WITH DRAWING PAD": {
+        "category": "EDUCATION",
+        "prix": "\u062f.\u0645.209",
+        "commission": "50 MAD"
+    },
+    "AUTOMATIC TAPE MEASURE": {
+        "category": "CLOTHING, SHOES & JEWELRY",
+        "prix": "\u062f.\u0645.149",
+        "commission": "55 MAD"
+    },
+    "MEAT CUTTING MACHINE": {
+        "category": "HOME, GARDEN & FURNITURE",
+        "prix": "\u062f.\u0645.199",
+        "commission": "65 MAD"
+    },
+    "ADJUSTABLE CAR PHONE HOLDER": {
+        "category": "CARS & ACCESSORIES",
+        "prix": "\u062f.\u0645.159",
+        "commission": "60 MAD"
+    },
+    "DOUBLE CUP HOLDER FOR CAR": {
+        "category": "CARS & ACCESSORIES",
+        "prix": "\u062f.\u0645.179",
+        "commission": "65 MAD"
+    },
+    "BIKE PHONE HOLDER": {
+        "category": "CARS & ACCESSORIES",
+        "prix": "\u062f.\u0645.189",
+        "commission": "65 MAD"
+    },
+    "TWIN CAR FAN": {
+        "category": "CARS & ACCESSORIES",
+        "prix": "\u062f.\u0645.229",
+        "commission": "65 MAD"
+    },
+    "KIDS WATER PILLOW": {
+        "category": "TOYS & GAMES",
+        "prix": "\u062f.\u0645.189",
+        "commission": "70 MAD"
+    },
+    "MOBILE PHONE HOLDER - MA": {
+        "category": "CARS & ACCESSORIES",
+        "prix": "\u062f.\u0645.169",
+        "commission": "60 MAD"
+    },
+    "MOBILE HOLDER CAR": {
+        "category": "CARS & ACCESSORIES",
+        "prix": "\u062f.\u0645.159",
+        "commission": "60 MAD"
+    },
+    "WIRELESS BLUETOOTH HEADPHONES": {
+        "category": "ELECTRONICS & ACCESSORIES",
+        "prix": "\u062f.\u0645.199",
+        "commission": "65 MAD"
+    },
+    "WIRELESS EARBUDS": {
+        "category": "ELECTRONICS & ACCESSORIES",
+        "prix": "\u062f.\u0645.199",
+        "commission": "60 MAD"
+    },
+    "MOSQUITO KILLER LAMP": {
+        "category": "HOME, GARDEN & FURNITURE",
+        "prix": "\u062f.\u0645.229",
+        "commission": "65 MAD"
+    },
+    "AUTOMATIC TRUNK LIFT DEVICE": {
+        "category": "CARS & ACCESSORIES",
+        "prix": "\u062f.\u0645.185",
+        "commission": "70 MAD"
+    },
+    "SOCKET WRENCH": {
+        "category": "CARS & ACCESSORIES",
+        "prix": "\u062f.\u0645.199",
+        "commission": "70 MAD"
+    },
+    "MOISTURIZING SNAIL CREAM": {
+        "category": "HEALTH & BEAUTY",
+        "prix": "\u062f.\u0645.159",
+        "commission": "70 MAD"
+    },
+    "ROSE SERUM": {
+        "category": "HEALTH & BEAUTY",
+        "prix": "\u062f.\u0645.169",
+        "commission": "70 MAD"
+    },
+    "S\u00c9RUM D'ESCARGOT POUR VISAGE": {
+        "category": "HEALTH & BEAUTY",
+        "prix": "\u062f.\u0645.185",
+        "commission": "70 MAD"
+    },
+    "ANTI-THEFT HELMET LOCK": {
+        "category": "ELECTRONICS & ACCESSORIES",
+        "prix": "\u062f.\u0645.189",
+        "commission": "70 MAD"
+    },
+    "CAR WIPER REPAIR TOOL": {
+        "category": "CARS & ACCESSORIES",
+        "prix": "\u062f.\u0645.179",
+        "commission": "70 MAD"
+    },
+    "BLACKHEAD REMOVER DEVICE": {
+        "category": "HEALTH & BEAUTY",
+        "prix": "\u062f.\u0645.249",
+        "commission": "70 MAD"
+    },
+    "MASSEUR DU CUIR CHEVELU": {
+        "category": "HEALTH & BEAUTY",
+        "prix": "\u062f.\u0645.225",
+        "commission": "70 MAD"
+    },
+    "MULTIFUNCTIONAL FOOD VACUUM SEALER": {
+        "category": "HOME, GARDEN & FURNITURE",
+        "prix": "\u062f.\u0645.249",
+        "commission": "70 MAD"
+    },
+    "SNUGGIE BLANKET": {
+        "category": "CLOTHING, SHOES & JEWELRY",
+        "prix": "\u062f.\u0645.215",
+        "commission": "70 MAD"
+    },
+    "MULTIFUNCTIONAL CAR CUP HOLDER": {
+        "category": "CARS & ACCESSORIES",
+        "prix": "\u062f.\u0645.199",
+        "commission": "70 MAD"
+    },
+    "FOOT ARCH SUPPORT SLEEVE": {
+        "category": "CLOTHING, SHOES & JEWELRY",
+        "prix": "\u062f.\u0645.185",
+        "commission": "80 MAD"
+    },
+    "ELBOW SUPPORT TO RELIEVE PAIN": {
+        "category": "CLOTHING, SHOES & JEWELRY",
+        "prix": "\u062f.\u0645.159",
+        "commission": "60 MAD"
+    },
+    "MASQUE DE PROTECTION DU VISAGE": {
+        "category": "ELECTRONICS & ACCESSORIES",
+        "prix": "\u062f.\u0645.179",
+        "commission": "60 MAD"
+    },
+    "DIGITAL SPOON SCALE": {
+        "category": "HOME, GARDEN & FURNITURE",
+        "prix": "\u062f.\u0645.169",
+        "commission": "60 MAD"
+    },
+    "MULTIFUNCTIONAL KITCHEN SCISSOR": {
+        "category": "HOME, GARDEN & FURNITURE",
+        "prix": "\u062f.\u0645.165",
+        "commission": "60 MAD"
+    },
+    "MAKEUP BRUSH SET X12": {
+        "category": "HEALTH & BEAUTY",
+        "prix": "\u062f.\u0645.179",
+        "commission": "70 MAD"
+    },
+    "APPAREIL DE MASSAGE ELECTRIQUE": {
+        "category": "HEALTH & BEAUTY",
+        "prix": "\u062f.\u0645.159",
+        "commission": "60 MAD"
+    },
+    "COMPOSITE KNEE PAD": {
+        "category": "CLOTHING, SHOES & JEWELRY",
+        "prix": "\u062f.\u0645.169",
+        "commission": "60 MAD"
+    },
+    "MAGIC NOTEBOOKS PACK": {
+        "category": "EDUCATION",
+        "prix": "\u062f.\u0645.169",
+        "commission": "60 MAD"
+    },
+    "ANTI FOG FILM": {
+        "category": "CARS & ACCESSORIES",
+        "prix": "\u062f.\u0645.139",
+        "commission": "50 MAD"
+    },
+    "LENS CUP": {
+        "category": "HOME, GARDEN & FURNITURE",
+        "prix": "\u062f.\u0645.175",
+        "commission": "50 MAD"
+    },
+    "ELECTRIC LIP PLUMPER DEVICE": {
+        "category": "HEALTH & BEAUTY",
+        "prix": "\u062f.\u0645.215",
+        "commission": "50 MAD"
+    },
+    "MASSAGE PILLOW": {
+        "category": "HEALTH & BEAUTY",
+        "prix": "\u062f.\u0645.245",
+        "commission": "50 MAD"
+    },
+    "TOE CORRECTOR": {
+        "category": "HEALTH & BEAUTY",
+        "prix": "\u062f.\u0645.145",
+        "commission": "50 MAD"
+    },
+    "THE INVISIBLE INSOLE INCREASE HEIGHT": {
+        "category": "HEALTH & BEAUTY",
+        "prix": "\u062f.\u0645.149",
+        "commission": "50 MAD"
+    },
+    "CAR FLEXIBLE LED LIGHT": {
+        "category": "CARS & ACCESSORIES",
+        "prix": "\u062f.\u0645.199",
+        "commission": "70 MAD"
+    },
+    "PO\u00caLE \u00c0 FRIRE MULTIFONCTION": {
+        "category": "HOME, GARDEN & FURNITURE",
+        "prix": "\u062f.\u0645.259",
+        "commission": "50 MAD"
+    },
+    "EATING SPORT": {
+        "category": "HOME, GARDEN & FURNITURE",
+        "prix": "\u062f.\u0645.169",
+        "commission": "50 MAD"
+    },
+    "MICRO VIBRATING FACIAL ROLLER & MASSAGER": {
+        "category": "HEALTH & BEAUTY",
+        "prix": "\u062f.\u0645.199",
+        "commission": "75 MAD"
+    },
+    "LISSEUR ELECTRIQUE": {
+        "category": "HEALTH & BEAUTY",
+        "prix": "\u062f.\u0645.199",
+        "commission": "55 MAD"
+    },
+    "WINDPROOF ANTI DUST FACE MASK": {
+        "category": "CARS & ACCESSORIES",
+        "prix": "\u062f.\u0645.169",
+        "commission": "60 MAD"
+    },
+    "ACNE AND PIMPLES FACE PATCH": {
+        "category": "HEALTH & BEAUTY",
+        "prix": "\u062f.\u0645.149",
+        "commission": "65 MAD"
+    },
+    "SHOWER HEAD": {
+        "category": "HOME, GARDEN & FURNITURE",
+        "prix": "\u062f.\u0645.179",
+        "commission": "55 MAD"
+    },
+    "BROSSE CHEVEUX 4 EN 1": {
+        "category": "HEALTH & BEAUTY",
+        "prix": "\u062f.\u0645.279",
+        "commission": "50 MAD"
+    },
+    "TRUNK STORAGE BAG": {
+        "category": "CARS & ACCESSORIES",
+        "prix": "\u062f.\u0645.249",
+        "commission": "70 MAD"
+    },
+    "BOX GRAIN STORAGE": {
+        "category": "HOME, GARDEN & FURNITURE",
+        "prix": "\u062f.\u0645.160",
+        "commission": "40 MAD"
+    },
+    "MULTIFUNCTIONAL CLEANING BRUSH": {
+        "category": "HOME, GARDEN & FURNITURE",
+        "prix": "\u062f.\u0645.199",
+        "commission": "65 MAD"
+    },
+    "BLACKBOARD BOOK CHILDREN": {
+        "category": "EDUCATION",
+        "prix": "\u062f.\u0645.209",
+        "commission": "40 MAD"
+    },
+    "CUP POUR R\u00c9CHAUFFER LES BOISSONS": {
+        "category": "HOME, GARDEN & FURNITURE",
+        "prix": "\u062f.\u0645.229",
+        "commission": "55 MAD"
+    },
+    "SUPPORT D'ORDINATEUR PORTABLE": {
+        "category": "HOME, GARDEN & FURNITURE",
+        "prix": "\u062f.\u0645.199",
+        "commission": "55 MAD"
+    },
+    "GENOUILL\u00c8RE ELASTIQUE": {
+        "category": "HEALTH & BEAUTY",
+        "prix": "\u062f.\u0645.179",
+        "commission": "50 MAD"
+    }
+}
